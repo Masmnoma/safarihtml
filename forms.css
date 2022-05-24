@@ -1,0 +1,28 @@
+form{
+    padding: 10px;
+    background-color: yellow;
+    text-align: left;
+    border: 2px solid;
+}
+h2{
+    text-align: center;
+}
+label{
+    padding: 15px;
+}
+#Fname{
+    padding: 1px;
+    margin: 4px;
+}
+#Lname{
+    margin: 4px;
+}
+#email{
+    margin: 4px;
+}
+#DOB{
+    margin: 4px;
+}
+#paswad{
+    margin: 4px;
+}

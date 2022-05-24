@@ -1,0 +1,29 @@
+.fruits{
+    border: 2px solid;color: #1e24ff;
+    text-align: center;
+    background-color: yellow;
+}
+.cars{
+    background-color: maroon;
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+}
+.FRUITS{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+}
+#BMW{
+    background-color: yellow;
+    border: 2px solid;
+    color: #1e24ff;
+}
+#PS5{
+    background-color: aqua;
+    border: 2px solid;
+}
+#FORTNITE{
+    background-color: indigo;
+    border: 1px solid;
+}
